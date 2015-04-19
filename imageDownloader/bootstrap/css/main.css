@@ -1,0 +1,42 @@
+.features .glyphicon {
+  font-size: 32px;
+}
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  min-height: 200px;
+}
+.footer {
+  color: #efefef;
+  background-color: #333;
+}
+.footer a {
+  color: #9af7fe;
+}
+
+.footer .glyphicon {
+  font-size: 14px;
+}
+
+.quote {
+  background-color: #444;
+  color: #e1e1e1;
+  margin: 2em 0;
+}
+.quote blockquote {
+  border: none;
+  margin: 0;
+}
+.quote footer {
+  color: #c1c1c1;
+}
+
+
+.transport-systems .row {
+  margin-bottom: 2em;
+}
+.transport-systems .glyphicon {
+  font-size: 14px;
+}
